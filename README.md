@@ -28,10 +28,6 @@ in connection with a database. The frontend code provides an awesome  'graphical
 - First install all the essentials mentioned above.
 - Open your git bash terminal and copy paste below code.
   ```
-  cd name_of_folder_to_copy
-  git clone https://github.com/Thunderbolt9/Student-Management-system.git
-  ```
-  - The above line of code first opens a folder you want and then clone the files of this repository into the folder.
 
 - Now open those files in your favourite IDE.
 - Now you have create a database with the same name as mentioned in backend code i.e 'studentrecord'.
@@ -70,16 +66,4 @@ in connection with a database. The frontend code provides an awesome  'graphical
   - Here you need that logo in fronend.py file.
   - If you want your own logo then store that in same folder and just change name of file in above code.
 
-## Links 🔗
 
-- Repository: https://github.com/Thunderbolt9/Student-Management-system
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    yadavyash0904@gmail.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-
-- My other project:
-https://github.com/Thunderbolt9?tab=repositories
-
-## Licensing ⚖️ 
-
-"The code in this project is licensed under MIT license."
